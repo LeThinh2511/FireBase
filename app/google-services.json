@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041865375803",
+    "firebase_url": "https://fir-problem-9bdb4.firebaseio.com",
+    "project_id": "fir-problem-9bdb4",
+    "storage_bucket": "fir-problem-9bdb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041865375803:android:31d86008eb43544d",
+        "android_client_info": {
+          "package_name": "thinhle.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041865375803-pob0kv9ujfeo46fv232tkvhnoid4htlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfUDo3i4aQkdUUwNO3ffL5uFVwBaWG070"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
